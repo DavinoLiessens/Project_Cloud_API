@@ -1,0 +1,16 @@
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\bin\Debug\netcoreapp2.2\Products_API.deps.json
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\bin\Debug\netcoreapp2.2\Products_API.runtimeconfig.json
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\bin\Debug\netcoreapp2.2\Products_API.runtimeconfig.dev.json
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\bin\Debug\netcoreapp2.2\Products_API.dll
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\bin\Debug\netcoreapp2.2\Products_API.pdb
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.csprojAssemblyReference.cache
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.csproj.CoreCompileInputs.cache
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.RazorAssemblyInfo.cache
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.RazorAssemblyInfo.cs
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.AssemblyInfoInputs.cache
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.AssemblyInfo.cs
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.RazorTargetAssemblyInfo.cache
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.dll
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.pdb
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\bin\Debug\netcoreapp2.2\Products_API.Views.dll
+C:\Users\davin\Documents\davino schooldocumenten\AP\2018-2019\CloudAPI\Products_API\Products_API\obj\Debug\netcoreapp2.2\Products_API.csproj.CopyComplete
